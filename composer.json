@@ -12,6 +12,9 @@
     }
   ],
   "autoload": {
+    "psr-0": {
+      "html": "src\\html"
+    },
     "psr-4": {
       "tools\\": "src"
     }
