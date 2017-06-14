@@ -1,0 +1,19 @@
+{
+  "name": "alibeibei/tools",
+  "description": "cache",
+  "minimum-stability": "dev",
+  "keywords": [
+    "tools"
+  ],
+  "authors": [
+    {
+      "name": "alibeibei",
+      "email": "1939612669@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "tools\\": "src"
+    }
+  }
+}
